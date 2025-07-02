@@ -55,6 +55,6 @@ A versatile and interactive drawing application built with **React**, **Fabric.j
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
+   ```bash https://github.com/CodinGakpo/AI-Drawing-Board.git
 2.Make .env.local file in root directory and add gemini api key
    git clone https://github.com/
